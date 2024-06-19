@@ -5,3 +5,5 @@
 В конце ВАС ЖДЕТ ПРИЗОВОЙ ЗВУК
 
 ![image](https://github.com/PENTAPUNK/Budilnik-zvonok/assets/168985234/1db10ee1-db87-4c8e-bdcb-b94f4d3414cc)
+
+Программа не имеет ничего запрещенно
